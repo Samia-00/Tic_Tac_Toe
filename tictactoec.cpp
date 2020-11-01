@@ -112,6 +112,8 @@ else
 {
     cout<<"\n\t\tGame Draw\n"<<endl;
 }
+int f;
+cin>>f;
 }
 
 
